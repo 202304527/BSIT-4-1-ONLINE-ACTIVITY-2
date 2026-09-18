@@ -1,3 +1,6 @@
+
+https://202304527.github.io/
+
 ACTIVITY #2
 Personalized Linux, and Git Cheat Sheet
 
